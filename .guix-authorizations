@@ -1,0 +1,7 @@
+;; -*- mode: scheme -*-
+
+(authorizations
+ (version 0)
+
+ (("0C7B 33F7 5485 9B8E D5C3  EB79 5CF6 7F7F 58DF CB5B"
+   (name "branjam"))))
